@@ -93,7 +93,7 @@ Edit
 📦 capstone_project_grip_strength
 │
 
-├── 📔 capstone_project_physical_and_health_metrics.ipynb
+├── 📔 Grip Strength Prediction Using Health Metrics.ipynb
 
 ├── 📄 Physical and Health Metrics.csv
 
