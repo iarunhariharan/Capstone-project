@@ -97,9 +97,7 @@ Edit
 
 ├── 📔 capstone_project_physical_and_health_metrics.ipynb
 
-├── 📄 README.md
-
-└── 📊 visualizations, plots, and results
+└── 📄 README.md
 
     🚀 Future Scope
 Add deep learning models (like DNNs) for improved predictions.
